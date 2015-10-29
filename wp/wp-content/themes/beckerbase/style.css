@@ -7,3 +7,8 @@ Description: Describe me
 License: &copy 2015 Becker Media
 Text Domain: changeme
 */
+
+.navbar-default .navbar-brand:hover, 
+.navbar-default .navbar-brand:focus {
+    color: #5E5E5E;
+    background-color: transparent;}
