@@ -2,10 +2,16 @@ body {
   background: #dedede;
   color: #999999;
 }
+.entry-title,
 h1,
 h2 {
   color: #f79d51;
+  font-size: 32px;
 }
 p {
   color: #f9b982;
+}
+.navbar-default {
+  background-color: #000;
+  border-color: #000;
 }
